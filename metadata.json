@@ -1,0 +1,6 @@
+{
+  "name": "RSR Events - Wedding & Event Decorations",
+  "description": "Professional decoration and event services for marriages, wedding stages, lighting, sound systems, tents, and family celebrations. Wherever your function is, we come to you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
